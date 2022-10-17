@@ -4,6 +4,7 @@ let lab3=[5,10,10,15]
 let lab4_5=[10,5,5,5,5,5,8,10,10,10,0]
 let lab6=[5,5,9,0,5,10]
 let quiz1=40
+
 let sum1=lab1[0]+lab1[1]+lab1[2]+lab1[3]+lab1[4]+lab1[5]+lab1[6]
 let sum2=lab2[0]+lab2[1]+lab2[2]+lab2[3]+lab2[4]+lab2[5]+lab2[6]
 let sum3=lab3[0]+lab3[1]+lab3[2]+lab3[3]
